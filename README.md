@@ -2,7 +2,6 @@
 <html>
 <head>
     <style>
-  
         .signature-container {
             display: flex;
             align-items: center;
